@@ -1,0 +1,2 @@
+C:\Installation Folder\Unity Projects\SolarSystem_AR_Project_AT3_KIT208\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Installation Folder\Unity Projects\SolarSystem_AR_Project_AT3_KIT208\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
